@@ -3,3 +3,6 @@ we are talking about diff
 we add some feature talking for diff
 we need some more feature for diff
 I add new one for staging comparison
+
+MAJOR MILESTONES: 
+1. Formation of Company (1 june)
