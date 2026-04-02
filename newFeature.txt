@@ -8,3 +8,5 @@ MAJOR MILESTONES:
 1. Formation of Company (1 june)
 2. Formation of Core Team (CEO, COO, CTO, 16 JULY)
 3. Formation of development team (30 july)
+4. Product development process launched (15 August)
+5. Supporting department form (30 Aug)
