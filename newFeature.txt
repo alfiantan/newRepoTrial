@@ -10,3 +10,4 @@ MAJOR MILESTONES:
 3. Formation of development team (30 july)
 4. Product development process launched (15 August)
 5. Supporting department form (30 Aug)
+6. Go public
